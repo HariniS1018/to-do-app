@@ -41,7 +41,7 @@ to-do-app/
 1. Clone the repository:
    ```bash
    git clone https://github.com/HariniS1018/to-do-app.git
-   cd flask-todo-app
+   cd to-do-app
    ```
 
 2. Install dependencies:
